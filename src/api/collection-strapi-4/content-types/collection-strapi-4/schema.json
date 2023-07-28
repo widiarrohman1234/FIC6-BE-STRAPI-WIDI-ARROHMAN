@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "collection_strapi_4s",
+  "info": {
+    "singularName": "collection-strapi-4",
+    "pluralName": "collection-strapi-4s",
+    "displayName": "collection_strapi_4"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "columnA": {
+      "type": "string"
+    },
+    "columnB": {
+      "type": "string"
+    }
+  }
+}
